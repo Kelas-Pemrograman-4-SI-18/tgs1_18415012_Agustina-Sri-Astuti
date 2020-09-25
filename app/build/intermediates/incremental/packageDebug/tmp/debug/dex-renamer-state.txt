@@ -1,0 +1,4 @@
+#Fri Sep 25 19:48:37 ICT 2020
+base.0=D\:\\agustina\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
